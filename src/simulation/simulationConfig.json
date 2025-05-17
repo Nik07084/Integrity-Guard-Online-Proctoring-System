@@ -1,0 +1,7 @@
+{
+  "numSimulatedUsers": 10,
+  "eventTypes": ["login", "logout", "createAssessment", "takeAssessment"],
+  "simulationDuration": 60,
+  "assessmentCreationRate": 0.1,
+  "assessmentTakingRate": 0.2
+}
